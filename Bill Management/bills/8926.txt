@@ -1,0 +1,16 @@
+	   Welcome To My Shopppp
+**********************************************************
+ Bill Number:8926
+ Customer Name:Parth Suthar
+ Phone Number:9265107181
+ Customer Email:parthsuthar589@gmail.com
+**********************************************************
+ Products		Qty		Price
+*********************************************************
+***********************************************************
+ Product Name:			iphone14proMax
+ Product Qty:			1
+ Sub Amount:			Rs.140000.00
+ Tax Amount:			Rs.0.00
+ Total Amount:			Rs.140000.00
+***********************************************************

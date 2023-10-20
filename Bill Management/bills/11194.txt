@@ -1,0 +1,16 @@
+        CyberCity Laptops,Gurugram,New Delhi
+***********************************************************
+ Bill Number:11194
+ Customer Name:Parth Suthar
+ Phone Number:9265107181
+ Customer Email:Parthsuthe@gmail.com
+***********************************************************
+ Products		Qty		Price
+*********************************************************
+***********************************************************
+ Product Name:			Banana
+ Product Qty:			9
+ Sub Amount:			Rs.450.00
+ Tax Amount:			Rs.4.00
+ Total Amount:			Rs.454.00
+***********************************************************

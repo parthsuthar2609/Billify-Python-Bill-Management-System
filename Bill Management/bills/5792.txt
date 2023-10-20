@@ -1,0 +1,16 @@
+        CyberCity Laptops,Gurugram,New Delhi
+***********************************************************
+ Bill Number:5792
+ Customer Name:
+ Phone Number:
+ Customer Email:
+***********************************************************
+ Products		Qty		Price
+*********************************************************
+***********************************************************
+ Product Name:			jnkjfsv
+ Product Qty:			7
+ Sub Amount:			Rs.5495.00
+ Tax Amount:			Rs.47.10
+ Total Amount:			Rs.5542.10
+***********************************************************

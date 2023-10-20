@@ -1,0 +1,16 @@
+	        CyberCity Mobile Shop	                                          B-25,Gurugram,DelhiNCR
+***********************************************************
+ Bill Number:10793
+ Customer Name:Parth Suthar
+ Phone Number:9265107181
+ Customer Email:Parthsuthar589@gmail.com
+***********************************************************
+ Products		Qty		Price
+*********************************************************
+***********************************************************
+ Product Name:			Victus
+ Product Qty:			1
+ Sub Amount:			Rs.82000.00
+ Tax Amount:			Rs.0.00
+ Total Amount:			Rs.82000.00
+***********************************************************

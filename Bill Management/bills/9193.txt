@@ -1,0 +1,16 @@
+        CyberCity Laptops,Gurugram,New Delhi
+***********************************************************
+ Bill Number:9193
+ Customer Name:Parth Suthar
+ Phone Number:92651070181
+ Customer Email:Parthsuthar589@gmail.com
+***********************************************************
+ Products		Qty		Price
+***********************************************************
+***********************************************************
+ Product Name:			MacBookAirm2Pro
+ Product Qty:			1
+ Sub Amount:			Rs.214000.00
+ Tax Amount:			Rs.0.00
+ Total Amount:			Rs.214000.00
+***********************************************************

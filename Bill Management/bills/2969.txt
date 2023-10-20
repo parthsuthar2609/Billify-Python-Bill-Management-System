@@ -1,0 +1,16 @@
+        CyberCity Laptops,Gurugram,New Delhi
+***********************************************************
+ Bill Number:2969
+ Customer Name:Parth Suthar
+ Phone Number:9265107181
+ Customer Email:Parthsuthar589@gmail.com
+***********************************************************
+ Products		Qty		Price
+***********************************************************
+***********************************************************
+ Product Name:			Victus
+ Product Qty:			2
+ Sub Amount:			Rs.279500.00
+ Tax Amount:			Rs.1975.00
+ Total Amount:			Rs.281475.00
+***********************************************************
